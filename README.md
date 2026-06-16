@@ -1,4 +1,4 @@
-# ArUco Square Sheet Generator
+# ArUco Square Sheet Generator (https://knoncto.github.io/aruco-square-gen/)
 
 A web tool for generating printable sheets with ArUco markers at the corners, useful for computer vision and augmented reality applications.
 
