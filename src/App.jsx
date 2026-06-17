@@ -7,8 +7,8 @@ import { validate } from "./utils/validate";
 
 const initialState = {
   sheetType: "Carta",
-  areaW: 15.8,
-  areaH: 22.1,
+  areaW: 10,
+  areaH: 15,
 };
 
 export default function App() {
